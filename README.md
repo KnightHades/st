@@ -1,2 +1,2 @@
 # st
-fork of st with added patches and enhanced aesthetics
+fork of suckless' st with added patches and enhanced aesthetics
